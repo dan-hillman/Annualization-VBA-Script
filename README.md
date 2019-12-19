@@ -1,4 +1,4 @@
-# Annualization Custom Function for Excel
+# Annualization VBA Script for Excel
 
 ## What is it?
 It's a function written in VBA for Excel to annualize income or expense data. When income or expense figures are reported in year-to-date terms, they must be "annualized" to convert them to end-of-year terms. This is a crucial step when calculating financial ratios such as return on assets, return on equity, or any ratio that compares income statement data to balance sheet data. 
